@@ -1,0 +1,286 @@
+{
+  "program": "Claude Certification Program by Anthropic",
+  "factsChecked": "2026-08-28",
+  "source": "https://github.com/Your-AI-Dept/claude-certification",
+  "maintainer": {
+    "name": "YAID (Your AI Department)",
+    "url": "https://youraidept.com/network"
+  },
+  "eligibility": "Certification is open to organizations in the Claude Partner Network. Individuals register through the Anthropic Partner Academy as members of a partner organization.",
+  "shared": {
+    "delivery": "Pearson VUE, online proctored or at a test center",
+    "format": "Proctored and closed-book, no AI assistance",
+    "durationMinutes": 120,
+    "scoreScale": "100-1000",
+    "passingScore": 720,
+    "retakes": "Up to 4 attempts per rolling 12 months; waiting periods of 14, 30, then 90 days",
+    "validityMonths": 12,
+    "renewal": "Free on-time renewal assessment on the Anthropic Partner Academy (non-proctored)"
+  },
+  "exams": [
+    {
+      "code": "CCAR-F",
+      "name": "Claude Certified Architect – Foundations",
+      "questions": 60,
+      "durationMinutes": 120,
+      "passingScore": 720,
+      "feeUsd": 125,
+      "feeStatus": "exam guide",
+      "audience": "Engineers and solution architects who design systems on Claude: agent architectures, tool integrations, and the context strategies that hold them together. If you sell or deliver Claude implementation work, this is the credential clients will recognize first.",
+      "definition": "CCAR-F (Claude Certified Architect – Foundations) is Anthropic's certification for engineers and solution architects who design Claude-powered systems. The exam is 60 questions in 120 minutes, proctored and closed-book, delivered by Pearson VUE, with a passing score of 720 on a 100–1,000 scale and a $125 fee per attempt.",
+      "domains": [
+        {
+          "name": "Agentic architecture",
+          "weight": "27%"
+        },
+        {
+          "name": "Claude Code workflows",
+          "weight": "20%"
+        },
+        {
+          "name": "Prompt engineering",
+          "weight": "20%"
+        },
+        {
+          "name": "Tool design and MCP",
+          "weight": "18%"
+        },
+        {
+          "name": "Context management",
+          "weight": "15%"
+        }
+      ],
+      "domainsNote": "Five domains, per the published exam guide.",
+      "prepNotes": [
+        "Study against the blueprint, not vibes. Agentic architecture alone is 27% of the exam, so weight your prep the way the guide weights the domains.",
+        "The exam is closed-book with no AI assistance. Anything you normally look up needs to be working knowledge before you sit it.",
+        "Candidates who pass tend to recommend a stretch of theory first, then hands-on building. The Partner Academy prep course follows the same blueprint."
+      ],
+      "faq": [
+        {
+          "question": "What is the CCAR-F exam?",
+          "answer": "CCAR-F is Claude Certified Architect – Foundations, Anthropic's certification for engineers and architects who design Claude-powered systems. It is 60 questions in 120 minutes, proctored and closed-book, with a passing score of 720 on a 100–1,000 scale."
+        },
+        {
+          "question": "How much does the CCAR-F exam cost?",
+          "answer": "$125 per attempt, per the current exam guide. The fee is paid to the certification program when you register. Program pricing changes, so check the current guide before scheduling."
+        },
+        {
+          "question": "Is CCAR-F the same as CCA-F?",
+          "answer": "Yes. CCA-F is a common shorthand; the official Pearson VUE listing uses CCAR-F for Claude Certified Architect – Foundations."
+        },
+        {
+          "question": "How do I register for the CCAR-F exam?",
+          "answer": "Registration runs through the Anthropic Partner Academy, which is open to people affiliated with a Claude Partner Network organization. Independent engineers typically get access by joining a partner firm such as YAID, then schedule through Pearson VUE."
+        },
+        {
+          "question": "How hard is CCAR-F?",
+          "answer": "It assumes real working knowledge across five domains: agentic architecture, Claude Code, prompt engineering, tool design and MCP, and context management. Engineers who build with Claude regularly report the material is fair; the closed-book format is what catches people who rely on looking things up."
+        }
+      ],
+      "guide": "https://youraidept.com/network/ccar-f",
+      "handbook": "https://github.com/Your-AI-Dept/claude-certification/blob/main/exams/ccar-f.md"
+    },
+    {
+      "code": "CCDV-F",
+      "name": "Claude Certified Developer – Foundations",
+      "questions": 53,
+      "durationMinutes": 120,
+      "passingScore": 720,
+      "feeUsd": 125,
+      "feeStatus": "exam guide",
+      "audience": "The exam guide describes the target candidate precisely: an engineer with one to five years of experience, at least six months hands-on with Claude or comparable LLM systems, proficient in Python or TypeScript, and fluent with REST APIs and CLI tools. A third of the exam is applications and integration, so it rewards people who have actually shipped.",
+      "definition": "CCDV-F (Claude Certified Developer – Foundations) is Anthropic's certification for developers who build applications on Claude. The exam is 53 questions in 120 minutes, proctored and closed-book, delivered by Pearson VUE, with a passing score of 720 on a 100–1,000 scale and a $125 fee per attempt.",
+      "domains": [
+        {
+          "name": "Applications and integration",
+          "weight": "33.1%"
+        },
+        {
+          "name": "Model selection and optimization",
+          "weight": "16.8%"
+        },
+        {
+          "name": "Agents and workflows",
+          "weight": "14.7%"
+        },
+        {
+          "name": "Prompt and context engineering",
+          "weight": "11%"
+        },
+        {
+          "name": "Tools and MCPs",
+          "weight": "10.6%"
+        },
+        {
+          "name": "Security and safety",
+          "weight": "8.1%"
+        },
+        {
+          "name": "Claude Code",
+          "weight": "3.1%"
+        },
+        {
+          "name": "Eval, testing, and debugging",
+          "weight": "2.6%"
+        }
+      ],
+      "domainsNote": "Eight domains, per exam guide v1.0 (July 2026).",
+      "prepNotes": [
+        "Applications and integration is a third of the exam. If your Claude experience is mostly prompting, build and deploy something real against the API before you sit it.",
+        "Claude Code and eval tooling together are under 6% of the marks. Do not over-prepare the small domains at the expense of integration and model selection.",
+        "The guide's experience profile is honest: six months of hands-on Claude work is the real prerequisite, even though no formal one is enforced."
+      ],
+      "faq": [
+        {
+          "question": "What is the CCDV-F exam?",
+          "answer": "CCDV-F is Claude Certified Developer – Foundations, Anthropic's certification for developers building applications on Claude. It is 53 questions in 120 minutes, proctored and closed-book, with a passing score of 720 on a 100–1,000 scale."
+        },
+        {
+          "question": "What is the difference between CCDV-F and CCAR-F?",
+          "answer": "CCDV-F tests hands-on application development: integration, model selection, and agents in code. CCAR-F tests system design: agentic architecture, tool design, and context strategy. Developers deep in the code usually fit CCDV-F; engineers who design and sell systems usually fit CCAR-F."
+        },
+        {
+          "question": "How much does the CCDV-F exam cost?",
+          "answer": "$125 per attempt, per exam guide v1.0. The credential is valid for 12 months, with a free on-time renewal via a non-proctored assessment on the Anthropic Partner Academy."
+        },
+        {
+          "question": "What experience do I need for CCDV-F?",
+          "answer": "No prerequisite is enforced, but the exam guide targets engineers with one to five years of experience, six months of hands-on Claude or LLM work, Python or TypeScript proficiency, and fluency with REST APIs and CLI tools."
+        },
+        {
+          "question": "How do I register for the CCDV-F exam?",
+          "answer": "Through the Anthropic Partner Academy, which requires affiliation with a Claude Partner Network organization. Independent developers usually get access by joining a partner firm such as YAID, then schedule through Pearson VUE."
+        }
+      ],
+      "guide": "https://youraidept.com/network/ccdv-f",
+      "handbook": "https://github.com/Your-AI-Dept/claude-certification/blob/main/exams/ccdv-f.md"
+    },
+    {
+      "code": "CCAO-F",
+      "name": "Claude Certified Associate – Foundations",
+      "questions": 60,
+      "durationMinutes": 120,
+      "passingScore": 720,
+      "feeUsd": 99,
+      "feeStatus": "reported",
+      "audience": "Day-to-day Claude users in non-engineering roles: operations, marketing, project management, education, communications, and general knowledge work. The heaviest domain is output evaluation, which says a lot about what the program thinks competent non-technical use looks like.",
+      "definition": "CCAO-F (Claude Certified Associate – Foundations) is Anthropic's certification for professionals who use Claude in daily work without writing code. The exam is 60 questions in 120 minutes, proctored, delivered by Pearson VUE, with a passing score of 720 on a 100–1,000 scale and a reported $99 fee per attempt.",
+      "domains": [
+        {
+          "name": "Output evaluation and validation",
+          "weight": "21%"
+        },
+        {
+          "name": "Workflow integration and solution design",
+          "weight": "16%"
+        },
+        {
+          "name": "Governance, risk, and responsible use",
+          "weight": "15%"
+        },
+        {
+          "name": "Prompting and task execution",
+          "weight": "14%"
+        },
+        {
+          "name": "Product and model selection",
+          "weight": "12%"
+        },
+        {
+          "name": "Configuration and knowledge management",
+          "weight": "12%"
+        },
+        {
+          "name": "Troubleshooting and optimization",
+          "weight": "10%"
+        }
+      ],
+      "domainsNote": "Seven domains, per the published blueprint.",
+      "prepNotes": [
+        "The biggest domain is evaluating and validating Claude's output, not prompting it. Practice catching wrong answers, not just writing clever prompts.",
+        "Governance and responsible use carry 15% of the marks. If your organization has AI-use policies, the reasoning behind them is exam material.",
+        "No coding is required anywhere on the blueprint. Do not lose time on API material that belongs to the developer exam."
+      ],
+      "faq": [
+        {
+          "question": "What is the CCAO-F exam?",
+          "answer": "CCAO-F is Claude Certified Associate – Foundations, Anthropic's certification for professionals who use Claude as a day-to-day work tool without writing code. It is 60 questions in 120 minutes, proctored, with a passing score of 720 on a 100–1,000 scale."
+        },
+        {
+          "question": "Do I need to be a developer for CCAO-F?",
+          "answer": "No. The exam targets operations, marketing, project management, education, and similar roles. No developer experience or API knowledge is required."
+        },
+        {
+          "question": "How much does the CCAO-F exam cost?",
+          "answer": "$99 per attempt as reported by independent prep guides; the program has not published the fee on an official public page yet, so confirm at registration."
+        },
+        {
+          "question": "How do I register for the CCAO-F exam?",
+          "answer": "Through the Anthropic Partner Academy, which requires affiliation with a Claude Partner Network organization. Delivery is through Pearson VUE, online proctored or at a test center."
+        },
+        {
+          "question": "What does the CCAO-F exam cover?",
+          "answer": "Seven domains: output evaluation and validation, workflow integration, governance and responsible use, prompting and task execution, product and model selection, configuration and knowledge management, and troubleshooting. Evaluating output is the heaviest at 21%."
+        }
+      ],
+      "guide": "https://youraidept.com/network/ccao-f",
+      "handbook": "https://github.com/Your-AI-Dept/claude-certification/blob/main/exams/ccao-f.md"
+    },
+    {
+      "code": "CCAR-P",
+      "name": "Claude Certified Architect – Professional",
+      "questions": 63,
+      "durationMinutes": 120,
+      "passingScore": 720,
+      "feeUsd": 175,
+      "feeStatus": "reported",
+      "audience": "Senior and principal architects who own Claude systems end to end: the design, the governance around it, and the client or executive conversations that keep it funded. No prerequisite is enforced, but sitting CCAR-F first is the sensible order unless your hands-on experience is deep and current.",
+      "definition": "CCAR-P (Claude Certified Architect – Professional) is the advanced tier of Anthropic's architect certification track. The exam is 63 questions in 120 minutes, proctored, delivered by Pearson VUE, with a passing score of 720 on a 100–1,000 scale and a reported $175 fee per attempt.",
+      "domains": [
+        {
+          "name": "The five CCAR-F foundations domains",
+          "weight": "extended"
+        },
+        {
+          "name": "Governance, safety, and risk management",
+          "weight": "added"
+        },
+        {
+          "name": "Stakeholder communication and lifecycle management",
+          "weight": "added"
+        }
+      ],
+      "domainsNote": "The program has not published official domain weights for CCAR-P yet; this is the reported structure.",
+      "prepNotes": [
+        "Everything on the CCAR-F blueprint still applies, extended to harder scenarios. If Foundations material is shaky, start there.",
+        "The added domains are about running systems responsibly and communicating them: governance, risk, stakeholder management, and lifecycle. Delivery experience matters more than reading for these.",
+        "Official domain weights are not published yet. Until they are, prepare breadth-first across the reported structure rather than gaming percentages."
+      ],
+      "faq": [
+        {
+          "question": "What is the CCAR-P exam?",
+          "answer": "CCAR-P is Claude Certified Architect – Professional, the advanced tier of Anthropic's architect certification track. It is 63 questions in 120 minutes, proctored, with a passing score of 720 on a 100–1,000 scale, and it extends the Foundations blueprint with governance, stakeholder communication, and lifecycle management."
+        },
+        {
+          "question": "Do I need CCAR-F before taking CCAR-P?",
+          "answer": "No prerequisite is enforced. That said, CCAR-P builds directly on the Foundations blueprint, so most candidates sit CCAR-F first unless their hands-on architecture experience is deep and current."
+        },
+        {
+          "question": "How much does the CCAR-P exam cost?",
+          "answer": "$175 per attempt as reported by independent prep guides; the fee is not yet published on an official public page, so confirm at registration."
+        },
+        {
+          "question": "Who should take CCAR-P?",
+          "answer": "Senior and principal architects, especially in consulting and partner organizations, who own Claude systems from design through governance and client communication."
+        },
+        {
+          "question": "How do I register for the CCAR-P exam?",
+          "answer": "Through the Anthropic Partner Academy, which requires affiliation with a Claude Partner Network organization, with delivery through Pearson VUE."
+        }
+      ],
+      "guide": "https://youraidept.com/network/ccar-p",
+      "handbook": "https://github.com/Your-AI-Dept/claude-certification/blob/main/exams/ccar-p.md"
+    }
+  ]
+}
