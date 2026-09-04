@@ -185,7 +185,7 @@ If you maintain one we have missed, open a pull request. [CONTRIBUTING.md](CONTR
 
 This handbook is not an official Anthropic resource. Anthropic controls the program, the exam content, and the credentials. Nothing here guarantees eligibility, a pass, or client work, and we will say so again on the application form.
 
-Longer guides on youraidept.com: [How to get Claude certified](https://youraidept.com/network/claude-certification), [CCAR-F](https://youraidept.com/network/ccar-f), [CCDV-F](https://youraidept.com/network/ccdv-f), [CCAO-F](https://youraidept.com/network/ccao-f), [CCAR-P](https://youraidept.com/network/ccar-p).
+Longer guides on youraidept.com: [How to get Claude certified](https://youraidept.com/network/claude-certification), [how to register](https://youraidept.com/network/register-for-claude-certification), [what it costs](https://youraidept.com/network/claude-certification-cost), [Partner Academy access](https://youraidept.com/network/anthropic-partner-academy), and the exam pages for [CCAR-F](https://youraidept.com/network/ccar-f), [CCDV-F](https://youraidept.com/network/ccdv-f), [CCAO-F](https://youraidept.com/network/ccao-f), and [CCAR-P](https://youraidept.com/network/ccar-p), each with [free practice questions](https://youraidept.com/network/ccar-f-practice-questions).
 
 ## License
 

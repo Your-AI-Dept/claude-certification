@@ -6,7 +6,7 @@ CCAR-F (Claude Certified Architect – Foundations) is Anthropic's certification
 
 Against the rest of the program: CCDV-F tests hands-on application code where CCAR-F tests system design, CCAO-F is for non-developers, and CCAR-P is the professional tier that builds on this exam. If you sell or lead Claude implementation work, CCAR-F is the one to sit first; it is also the credential the market shortens to CCA-F.
 
-Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccar-f](https://youraidept.com/network/ccar-f).
+Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccar-f](https://youraidept.com/network/ccar-f). Free practice questions: [youraidept.com/network/ccar-f-practice-questions](https://youraidept.com/network/ccar-f-practice-questions).
 
 ## Quick facts
 
