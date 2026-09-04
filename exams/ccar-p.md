@@ -6,7 +6,7 @@ CCAR-P (Claude Certified Architect – Professional) is the advanced tier of Ant
 
 Against the rest of the program: CCAR-P sits on top of CCAR-F, extending the same blueprint into governance, stakeholder communication, and lifecycle management. It is the only exam aimed at senior and principal architects; everything else in the program is a foundations tier.
 
-Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccar-p](https://youraidept.com/network/ccar-p). Free practice questions: [youraidept.com/network/ccar-p-practice-questions](https://youraidept.com/network/ccar-p-practice-questions).
+Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccar-p](https://youraidept.com/network/ccar-p). Free practice questions: [youraidept.com/network/ccar-p-practice-questions](https://youraidept.com/network/ccar-p-practice-questions). Timed practice exam: [youraidept.com/network/ccar-p-practice-exam](https://youraidept.com/network/ccar-p-practice-exam).
 
 ## Quick facts
 

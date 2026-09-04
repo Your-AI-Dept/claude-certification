@@ -6,7 +6,7 @@ CCDV-F (Claude Certified Developer – Foundations) is Anthropic's certification
 
 Against the rest of the program: CCAR-F tests system design where CCDV-F tests the code itself, CCAO-F is the non-developer track, and CCAR-P extends the architect side. Developers who spend their days shipping Claude features fit here; a third of the marks are applications and integration, which no other exam in the program weights so heavily.
 
-Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccdv-f](https://youraidept.com/network/ccdv-f). Free practice questions: [youraidept.com/network/ccdv-f-practice-questions](https://youraidept.com/network/ccdv-f-practice-questions).
+Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccdv-f](https://youraidept.com/network/ccdv-f). Free practice questions: [youraidept.com/network/ccdv-f-practice-questions](https://youraidept.com/network/ccdv-f-practice-questions). Timed practice exam: [youraidept.com/network/ccdv-f-practice-exam](https://youraidept.com/network/ccdv-f-practice-exam).
 
 ## Quick facts
 

@@ -13,6 +13,7 @@ We are [YAID (Your AI Department)](https://youraidept.com/network?ref=github), a
 - [Costs](#costs)
 - [Retakes and renewal](#retakes-and-renewal)
 - [Exam guides](#exam-guides)
+- [Free practice exams](#free-practice-exams)
 - [How to prepare](#how-to-prepare)
 - [FAQ](#faq)
 - [Community study resources](#community-study-resources)
@@ -90,6 +91,10 @@ One file per exam: quick facts, domain weights, what each domain covers, prep no
 - [CCDV-F: Claude Certified Developer – Foundations](exams/ccdv-f.md)
 - [CCAO-F: Claude Certified Associate – Foundations](exams/ccao-f.md)
 - [CCAR-P: Claude Certified Architect – Professional](exams/ccar-p.md)
+
+## Free practice exams
+
+We run free timed practice exams for all four certifications at [youraidept.com/network/claude-certification-practice-exam](https://youraidept.com/network/claude-certification-practice-exam): full-length mocks drawn to the published domain weights (60 questions in 120 minutes for CCAR-F and CCAO-F, 53 for CCDV-F), a countdown, an estimated score on the 100 to 1,000 scale against the 720 pass mark, a per-domain breakdown, and explanations for every question. 250 original questions, no sign-up, results stay in your browser. Per exam: [CCAR-F](https://youraidept.com/network/ccar-f-practice-exam), [CCDV-F](https://youraidept.com/network/ccdv-f-practice-exam), [CCAO-F](https://youraidept.com/network/ccao-f-practice-exam), [CCAR-P](https://youraidept.com/network/ccar-p-practice-exam).
 
 ## How to prepare
 

@@ -6,7 +6,7 @@ CCAO-F (Claude Certified Associate – Foundations) is Anthropic's certification
 
 Against the rest of the program: this is the only exam that requires no engineering background. CCAR-F and CCDV-F are for engineers, and CCAR-P is the senior architect tier. For operators, marketers, PMs, and analysts who want a verifiable Claude credential, CCAO-F is the entire conversation.
 
-Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccao-f](https://youraidept.com/network/ccao-f). Free practice questions: [youraidept.com/network/ccao-f-practice-questions](https://youraidept.com/network/ccao-f-practice-questions).
+Facts checked August 28, 2026 against the Pearson VUE program listing and the published exam guide. Longer guide with sources: [youraidept.com/network/ccao-f](https://youraidept.com/network/ccao-f). Free practice questions: [youraidept.com/network/ccao-f-practice-questions](https://youraidept.com/network/ccao-f-practice-questions). Timed practice exam: [youraidept.com/network/ccao-f-practice-exam](https://youraidept.com/network/ccao-f-practice-exam).
 
 ## Quick facts
 
